@@ -16,6 +16,6 @@ shadowpad({
 ```
 # Options available
 
-* *shadow_type - _hard/soft_
-* *padding - _boolean_
+* *shadow_type* - _hard/soft_
+* *padding* - _boolean_
 
