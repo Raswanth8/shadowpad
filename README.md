@@ -21,5 +21,5 @@ shadowpad({
 
 # Article
 
-[Shadowpad Medium] (https://raswanth8901.medium.com/how-i-developed-and-published-my-first-npm-package-2bfa4a26f203)
+[Shadowpad Medium](https://raswanth8901.medium.com/how-i-developed-and-published-my-first-npm-package-2bfa4a26f203)
 
